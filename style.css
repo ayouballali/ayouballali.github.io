@@ -1,0 +1,83 @@
+header_cv h2
+{
+color: black;
+font-size: 2ex;
+font-family: serif;
+text-shadow: 0px 0px 0px black;
+}
+li,label
+{
+font-family: 'Ubuntu', sans-serif;
+}
+#photo
+{
+border-radius: 50%;
+box-shadow: 6px 6px 10px black;
+}
+#formation_cv,#COMPETENCES,#projetAcademiques,#langues,#experiences
+{
+/*border: 5px black solid*/
+box-shadow: 6px 6px 6px black;
+background-color: #eeebdd;
+border-radius: 20px;
+}
+
+h2,label
+{
+text-shadow: 6px 6px 6px black;
+}
+#COMPETENCES em,#langues em,span,#projetAcademiques em,#experiences em
+{
+font-family: 'Ubuntu', sans-serif;
+background-color: #FDEBD0 ;
+border-radius: 10px;
+}
+#header_cv p
+{
+font-family: 'Ubuntu', sans-serif;
+}
+body
+{
+background-color: #f8f5f1;
+}
+a:hover {
+  background-color: #9e9d89;
+  border-radius: 10px;
+}
+h2:active
+{
+color: #b67162;
+font-size: 150%;
+}
+input,textarea {
+box-shadow: 6px 6px 6px black;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid black;
+  border-radius: 9px;
+  background-color: #eeebdd;
+  font-family: 'Ubuntu', sans-serif;
+
+  /*border: none;
+  border-bottom: 2px solid black;on peut utuliser ca et le suivant*/
+}
+input:focus,textarea:focus,button:focus {
+  background-color: #e4fbff;
+}
+#formation_cv:hover,#header_cv:hover,#COMPETENCES:hover,#projetAcademiques:hover,button:hover,#langues:hover,#experiences:hover,input:hover,textarea:hover
+{
+background-color: #e4fbff;
+}
+button
+{
+border-radius: 9px;
+border: 0.5px solid black;
+background-color: #eeebdd;
+padding: 10px 32px;
+color: black;
+margin: 4px 2px;
+box-shadow: 6px 6px 6px black;
+
+}
