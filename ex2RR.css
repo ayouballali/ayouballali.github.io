@@ -1,0 +1,266 @@
+.Entete{
+    position: relative;
+    background-color: #528CD8;
+    margin: auto;
+    width: 95%;
+    border: 3px solid #365C8C;
+    padding: 20px;
+ }
+ .Entete p{
+     color: white;
+     text-align: center;
+ }
+ .sect0{
+     position: relative;
+     background-color: #C4BE95;
+     margin: auto;
+     width: 95%;
+     border: 3px solid #365C8C;
+     padding: 20px;
+     margin-top:8px;
+
+  }
+  .sect0 p{
+      color: white;
+      text-align: center;
+  }
+  .sect1{
+     position: relative;
+     background-color:#C5D9F2 ;
+     width: 20%;
+     border: 3px solid #365C8C;
+     padding: 20px;
+     margin-top:8px;
+     margin-left: 1%;
+     height: 200px;
+  }
+  .sect1 p{
+      color: white;
+      text-align:center;
+      padding-top: 25%;
+  }
+  .sect2{
+     position: relative;
+     background-color: #E7B9B7;
+     width: 20%;
+     border: 3px solid #365C8C;
+     padding: 20px;
+     bottom: 245px;
+     margin-left: 26%;
+     height: 200px;
+  }
+  .sect2 p{
+      color: white;
+      text-align:center;
+      padding-top: 25%;
+  }
+  .sect3{
+     position: relative;
+     background-color:#C3D798 ;
+     width: 20%;
+     border: 3px solid #365C8C;
+     padding: 20px;
+     bottom: 490px;
+     margin-left: 51%;
+     height: 200px;
+  }
+  .sect3 p{
+      color: white;
+      text-align:center;
+      padding-top: 25%;
+  }
+  .sect4{
+     position: relative;
+     background-color: #FBC08C;
+     width: 20%;
+     border: 3px solid #365C8C;
+     padding: 20px;
+     bottom: 735px;
+     margin-left: 76%;
+     height: 200px;
+  }
+  .sect4 p{
+      color: white;
+      text-align:center;
+      padding-top: 25%;
+  }
+  .sect5{
+     position: relative;
+     background-color: #00AFF3;
+     width: 45%;
+     border: 3px solid #365C8C;
+     padding: 20px;
+     bottom: 730px;
+     height: 200px;
+     margin-left: 1%;
+  }
+  .sect5 p{
+     color: white;
+     text-align:center;
+     padding-top: 10%;
+ }
+ .sect6{
+     position: relative;
+     background-color: #00AFF3;
+     width: 45%;
+     border: 3px solid #365C8C;
+     padding: 20px;
+     bottom: 975px;
+     height: 200px;
+     margin-left: 51%;
+  }
+  .sect6 p{
+     color: white;
+     text-align:center;
+     padding-top: 10%;
+ }
+ .Pied{
+     position: relative;
+     background-color: #528CD8;
+     margin: auto;
+     width: 95%;
+     border: 3px solid #365C8C;
+     padding: 20px;
+     bottom: 970px;
+  }
+  .Pied p{
+      color: white;
+      text-align: center;
+  }
+  @media only screen and (max-width: 1024px)
+  {
+     .sect1{
+         height: 50px;
+         width:44%;
+         margin-left: 1px;
+      }
+      .sect1 p{
+       color: white;
+       text-align:center;
+       padding-top: 1%;
+
+   }
+      .sect2{
+         height: 50px;
+         width:44%;
+         bottom:96px;
+         margin-left: 51%;
+      }
+      .sect2 p{
+       color: white;
+       text-align:center;
+       padding-top: 1%;
+
+   }
+      .sect3{
+       height: 50px;
+         width:44%;
+         bottom:100px;
+         margin-left: 1px;
+         margin-top: 12px;
+      }
+      .sect3 p{
+       color: white;
+       text-align:center;
+       padding-top: 1%;
+
+   }
+      .sect4{
+       height: 50px;
+       width:44%;
+       bottom:195px;
+       margin-left: 51%;
+
+      }
+      .sect4 p{
+       color: white;
+       text-align:center;
+       padding-top: 1%;
+
+   }
+      .sect5{
+       height: 50px;
+       width:95%;
+       bottom:198px;
+       margin-left: 1px;
+       margin-top: 12px;
+      }
+      .sect5 p{
+       color: white;
+       text-align:center;
+       padding-top:1%;
+      }
+     .sect6{
+       height: 50px;
+       width:95%;
+       bottom:200px;
+       margin-left: 1px;
+       margin-top: 12px;
+      }
+      .sect6 p{
+       color: white;
+       text-align:center;
+       padding-top:1%;
+      }
+     .Pied{
+       height: 50px;
+       width:95%;
+       bottom:200px;
+       margin-left: 1px;
+       margin-top: 12px;
+      }
+
+  }
+  @media only screen and (max-width: 414px)
+  {
+    .sect1{
+       height: 50px;
+       width:95%;
+       bottom:5px;
+       margin-left: 1px;
+       margin-top: 12px;
+      }
+
+    .sect2{
+       height: 50px;
+       width:95%;
+       bottom:5px;
+       margin-left: 1px;
+       margin-top: 8px;
+    }
+    .sect3{
+       height: 50px;
+       width:95%;
+       bottom:5px;
+       margin-left: 1px;
+       margin-top: 8px;
+    }
+    .sect4{
+       height: 50px;
+       width:95%;
+       bottom:5px;
+       margin-left: 1px;
+       margin-top: 8px;
+    }
+    .sect5{
+       height: 50px;
+       width:95%;
+       bottom:5px;
+       margin-left: 1px;
+       margin-top: 8px;
+    }
+    .sect6{
+       height: 50px;
+       width:95%;
+       bottom:5px;
+       margin-left: 1px;
+       margin-top: 8px;
+    }
+    .Pied{
+       height: 50px;
+       width:95%;
+       bottom:5px;
+       margin-left: 1px;
+       margin-top: 8px;
+    }
+  }

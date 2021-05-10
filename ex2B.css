@@ -1,0 +1,62 @@
+tml, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+
+/*
+Cas du Desktop /Laptop
+*/
+
+#header {
+  background-color: #558ed5;
+  border:3px solid #295485;
+
+}
+#section0 {
+  background-color: #c4bd97;
+  border:3px solid #295485;
+
+}
+#section1 {
+  background-color: #c6d9f1;
+  border:3px solid #295485;
+
+}
+#section2 {
+  background-color: #e4b7b7;
+  border:3px solid #295485;
+
+}
+#section3 {
+  background-color: #c3d69b;
+  border:3px solid #295485;
+}
+
+#section4 {
+  background-color: #fac090;
+  border:3px solid #295485;
+
+}
+#section5 {
+  background-color: #00b0f0;
+  border:3px solid #295485;
+
+}
+
+#section6 {
+  background-color: #00b0f0;
+  border:3px solid #295485;
+
+}
+#footer {
+  background-color: #b3a2c7;
+  border:3px solid #295485;
+}
