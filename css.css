@@ -1,0 +1,138 @@
+.en-tete{
+   position: relative;
+   background-color: #528CD8;
+   margin: auto;
+   width: 95%;
+   border: 3px solid #365C8C;
+   padding: 20px;
+}
+.Entete p{
+    color: black;
+    text-align: center;
+}
+.sectone0{
+    position: relative;
+    background-color: #C4BE95;
+    margin: auto;
+    width: 95%;
+    border: 3px solid #365C8C;
+    padding: 20px;
+    margin-top:8px;
+
+ }
+ .sectone0 p{
+     color: black;
+     text-align: center;
+ }
+ .sectone1{
+    position: relative;
+    background-color:#C5D9F2 ;
+    width: 20%;
+    border: 3px solid #365C8C;
+    padding: 20px;
+    margin-top:8px;
+    margin-left: 1%;
+    height: 200px;
+ }
+ .sectone1 p{
+     color: black;
+     text-align:center;
+     padding-top: 25%;
+ }
+ .sectone2{
+    position: relative;
+    background-color: #E7B9B7;
+    width: 20%;
+    border: 3px solid #365C8C;
+    padding: 20px;
+    bottom: 245px;
+    margin-left: 26%;
+    height: 200px;
+ }
+ .sectone2 p{
+     color: black;
+     text-align:center;
+     padding-top: 25%;
+ }
+ .sectone3{
+    position: relative;
+    background-color:#C3D798 ;
+    width: 20%;
+    border: 3px solid #365C8C;
+    padding: 20px;
+    bottom: 490px;
+    margin-left: 51%;
+    height: 200px;
+ }
+ .sectone3 p{
+     color: black;
+     text-align:center;
+     padding-top: 25%;
+ }
+ .sectone4{
+    position: relative;
+    background-color: #FBC08C;
+    width: 20%;
+    border: 3px solid #365C8C;
+    padding: 20px;
+    bottom: 735px;
+    margin-left: 76%;
+    height: 200px;
+ }
+ .sectone4 p{
+     color: black;
+     text-align:center;
+     padding-top: 25%;
+ }
+ .sectone5{
+    position: relative;
+    background-color: #00AFF3;
+    width: 45%;
+    border: 3px solid #365C8C;
+    padding: 20px;
+    bottom: 730px;
+    height: 200px;
+    margin-left: 1%;
+ }
+ .sectone5 p{
+    color: black;
+    text-align:center;
+    padding-top: 10%;
+}
+.sectone6{
+    position: relative;
+    background-color: #00AFF3;
+    width: 45%;
+    border: 3px solid #365C8C;
+    padding: 20px;
+    bottom: 975px;
+    height: 200px;
+    margin-left: 51%;
+ }
+ .sectone6 p{
+    color: black;
+    text-align:center;
+    padding-top: 10%;
+}
+.Pied{
+    position: relative;
+    background-color: #E7B9B0;
+    margin: auto;
+    width: 95%;
+    border: 3px solid #365C8C;
+    padding: 20px;
+    bottom: 970px;
+ }
+ .Pied p{
+     color: black;
+     text-align: center;
+ }
+ body
+ {
+   background-color: #bfcba8;
+ }
+ .sectone0:hover,.sectone1:hover,.en-tete:hover,.sectone2:hover,.sectone3:hover,.sectone4:hover,.sectone5:hover,.sectone6:hover, .Pied:hover
+ {
+   background-color: #1e6f5c;
+   box-shadow: 6px 6px 6px black;
+ }
