@@ -1,0 +1,23 @@
+.div1{
+    position:absolute;
+    background-color: #DA9693;
+    height: 100px;
+    width: 100px;
+    border: #365C8C 2px solid;
+}
+.div2{
+    position:absolute;
+    background-color:#C4BE95;
+    height: 100px;
+    width: 100px;
+    border: #365C8C 2px solid;
+    margin-top: 108px;
+}
+.div3{
+    position:absolute;
+    background-color:#528CD8;
+    height: 100px;
+    width: 100px;
+    border: #365C8C 2px solid;
+    margin-top: 216px;
+}
