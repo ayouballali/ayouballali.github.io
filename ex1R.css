@@ -1,0 +1,49 @@
+.container
+{
+  height:500px;
+  width: 500px;
+  background-color: black;
+  margin: auto;
+margin-top: 82px;
+  border-radius: 20px;
+  padding-top: 30px;
+}
+body{
+  background-color: #4453B3;
+}
+.cvhtml
+{
+
+  width: 350px;
+  height: 27px;
+  background-color: #4453B3;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.cvavccss
+{
+  width: 350px;
+  height: 27px;
+  background-color: #4453B3;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.cvavccss:hover,.cvhtml:hover
+{
+  background-color: #e84545;
+}
+a
+{
+  text-decoration: none;
+  font-size: 20px;
+  margin-left:126px;
+color: white;
+}

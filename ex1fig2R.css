@@ -1,0 +1,32 @@
+.un
+{
+  position: relative;
+  background-color: blue;
+
+  height: 100px;
+  width: 100px;
+  border: #365C8C 2px solid;
+
+}
+.deux
+{
+position: relative;
+  background-color: red;
+ height: 100px;
+ margin-top: 3px;
+ margin-left: 104px;
+  width: 100px;
+
+border: #365C8C 2px solid;
+}
+.trois
+{
+  position: relative;
+  background-color: black;
+ height: 100px;
+ margin-top: 3px;
+  width: 100px;
+ margin-left: 208px;
+
+border: #365C8C 2px solid;
+}

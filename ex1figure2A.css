@@ -1,0 +1,27 @@
+.un
+{position:absolute;
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  border: #365C8C 2px solid;
+
+}
+.deux
+{
+position:absolute;
+  background-color: red;
+ height: 100px;
+  width: 100px;
+margin-top: 104px;
+margin-left: 104px;
+border: #365C8C 2px solid;
+}
+.trois
+{position:absolute;
+  background-color: black;
+ height: 100px;
+  width: 100px;
+  margin-left: 208px;
+margin-top: 208px;
+border: #365C8C 2px solid;
+}
