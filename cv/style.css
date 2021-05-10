@@ -1,0 +1,111 @@
+.header_cv h2
+{
+color: black;
+font-size: 2ex;
+font-family: serif;
+text-shadow: 0px 0px 0px black;
+}
+li,label
+{
+font-family: 'Ubuntu', sans-serif;
+}
+#photo
+{
+border-radius: 50%;
+box-shadow: 6px 6px 10px black;
+}
+.header_cv
+{
+padding: 20px;
+  margin: 0px;
+  background: #bdc3c7;
+  width: 150px;
+  height: 700px;
+  position: fixed;
+box-shadow: 6px 6px 6px black;
+  text-align: center;
+
+
+}
+
+.lautre
+{
+ border 10px black none;
+ padding: 20px 50px;
+  margin: 10px;
+  margin-left: 0;
+  width :79.5%;
+  float: right;
+}
+.formation_cv,.COMPETENCES,.projetAcademiques,.langues,.experiences
+{
+/*border: 5px black solid*/
+box-shadow: 6px 6px 6px black;
+background-color: lightblue;
+
+
+
+}
+
+h2,label
+{
+text-shadow: 6px 6px 6px black;
+}
+.COMPETENCES em,.langues em,span,.projetAcademiques em,.experiences em
+{
+font-family: 'Ubuntu', sans-serif;
+background-color: #bdc3c7 ;
+border-radius: 10px;
+}
+.header_cv p
+{
+font-family: 'Ubuntu', sans-serif;
+
+}
+body
+{
+background-color: #2b2e4a;
+}
+a:hover {
+  background-color: #9e9d89;
+  border-radius: 10px;
+}
+h2:active
+{
+color: #b67162;
+font-size: 150%;
+}
+input,textarea {
+box-shadow: 6px 6px 6px black;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+
+
+  background-color: lightblue;
+  font-family: 'Ubuntu', sans-serif;
+
+  /*border: none;
+  border-bottom: 2px solid black;on peut utuliser ca et le suivant*/
+}
+input:focus,textarea:focus,button:focus {
+  background-color: #e4fbff;
+}
+.formation_cv:hover,.header_cv:hover,.COMPETENCES:hover,.projetAcademiques:hover,button:hover,.langues:hover,.experiences:hover,input:hover,textarea:hover
+{
+background-color: #e4fbff;
+
+}
+button
+{
+
+
+background-color: lightblue;
+padding: 10px 32px;
+color: black;
+margin: 4px 2px;
+box-shadow: 6px 6px 6px black;
+
+}
+
