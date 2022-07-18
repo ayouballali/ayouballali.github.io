@@ -678,7 +678,7 @@ img {
   cursor: pointer;
 }
 
-.services__modal-icon{
+.services__modal-icon{    
   color: var(--first-color);
   margin-left: var(--mb-0-25);
 }
