@@ -1184,7 +1184,7 @@ img {
   }
 
   .about__info{
-    justify-content: initial;
+    justify-content: space-between;
   }
 
   .about__buttons{
