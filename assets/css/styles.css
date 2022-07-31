@@ -1319,5 +1319,23 @@ img {
   .contact__inputs{
     grid-template-columns: repeat(2,1fr);
   }
+/* my modification  */
+  .container{
+    max-width: 80%;
+    
+  }
+
+  .nav__header{
+    margin-right: 60px;
+
+  }
+
+  .nav__logo{
+    margin-left: -120px;
+  }
+
+  .about__container{
+    margin-left: 100px;
+  } 
   
 }
