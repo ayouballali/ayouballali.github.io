@@ -1330,6 +1330,6 @@ img {
     margin-left: 100px;
   }
   .footer__links {
-    flex-direction: row;
+    flex-direction:unset;
   }
 }
