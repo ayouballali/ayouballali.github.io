@@ -520,7 +520,7 @@ img {
 }
 
 .skills__react {
-  width: 40%;
+  width: 70%;
 }
 
 .skills__php {
@@ -528,11 +528,11 @@ img {
 }
 
 .skills__spring {
-  width: 40%;
+  width: 60%;
 }
 
 .skills__nodejs {
-  width: 40%;
+  width: 70%;
 }
 
 .skills__firebase {
@@ -560,13 +560,13 @@ img {
   margin-bottom: var(--mb-2);
 }
 
-.qualification__button {
+.qualification__butto.qualification__button:hover {
+n {
   font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
   cursor: pointer;
 }
 
-.qualification__button:hover {
   color: var(--first-color);
 }
 
