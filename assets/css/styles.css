@@ -524,7 +524,7 @@ img {
 }
 
 .skills__php {
-  width: 70%;
+  width: 40%;
 }
 
 .skills__spring {
@@ -532,7 +532,7 @@ img {
 }
 
 .skills__nodejs {
-  width: 40%;
+  width: 50%;
 }
 
 .skills__firebase {
